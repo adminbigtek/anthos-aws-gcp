@@ -10,4 +10,7 @@ Deploy workloads and services to Anthos clusters on Google Cloud and AWS.
 Get information about your multi-cloud deployment using the Anthos dashboard on the Google Cloud Console.
 
 ![image](https://github.com/user-attachments/assets/3564e4f7-f0f8-4466-a619-82ffab56f2c9)
+![image](https://cloud.google.com/kubernetes-engine/multi-cloud/docs/aws/concepts/img/aws-architecture.svg)
+
+
 
